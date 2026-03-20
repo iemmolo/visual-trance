@@ -23,4 +23,4 @@ Without the prebake, leads that use `.trancegate()` will sound like continuous d
 
 ## YouTube
 
-[youtube channel link]
+[[youtube channel link]](https://www.youtube.com/@jackHasHobbies)
